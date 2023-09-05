@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="192.168.15.21.DBGPOBIG.sa"
+  DTS:DTSID="{E4073FEF-D5AC-48E8-B29D-3FE9AE6159D0}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=192.168.15.21;User ID=sa;Initial Catalog=DBGPOBIG;Provider=SQLNCLI11.1;Persist Security Info=True;Application Name=SSIS-DBGPOBIG Sincronizacion-{E4073FEF-D5AC-48E8-B29D-3FE9AE6159D0}192.168.15.21.DBGPOBIG.sa;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAno0wV2DrfUC0WE2ba1dfPgAAAAACAAAAAAAQZgAAAAEAACAAAADU6MDcdglEyqskpcobWr8oWTQOX1LJxZDBCaNlcwg8BAAAAAAOgAAAAAIAACAAAACWrcjM//62zI9TsPDPyLEnS4rZj4TDX0wInKFHO2FkwoAAAADml/xUKf/yTiLHiGBTIVrGOOudjrQQ69DlYsRqZQVVy8xG7vHDyqOE8hVhlxWyS/MEUpeBUjJBk4e6lOf/2rHyaDCBaS5K/NjkGmnT+Pe0SaTWd2N5Wrmw4aHVHD4FSOFbmduRCGTEnibiEZ5mBXsFl6eDzm2DrBW7BI1wCMhr+0AAAADbFAoDF1kmKKRC5ksrP5d+j7FwRcajXV0DignMYDGMkPXEgWaEJvXOrn8QsqPcQxp+mSPqMJzzU2rF0u0jxD06</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
